@@ -20,3 +20,5 @@ This system is meaningful to me because it reaches all the way back to the first
 This project challenged me as a computer scienctist because of the advanced planning that it took. I had to sit down with a notebook and calculator and determinine exactly what the coordinates of each of the seven computer generated lines needed to be so that the rotational symmetry worked correctly. This took more hours than I care to admit! However it was different for me than almost all previous projects because I didn't just dive straight in and do trial and error. I really made sure that I had this one planned out and the math calculated beforehand to make the rest of the project a breeze.
 
 I cited the url at the top of the method, but I took inspiration for the dotted lines function from the page https://processing.org/discourse/beta/num_1202486379.html and the user J David Eisenberg.
+
+The code in this repo has been copied and pasted from the editor at https://openprocessing.org/sketch/create with the Pjs setting. 
